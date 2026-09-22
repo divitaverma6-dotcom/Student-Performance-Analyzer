@@ -1,0 +1,503 @@
+student_id,gender,class,study_hours_per_week,attendance_percent,math_score,science_score,english_score,parent_education
+S1000,Male,10C,11.4,87.0,68.9,72.3,70.6,Bachelors
+S1001,Female,10A,17.5,75.7,89.1,81.0,94.9,High School
+S1002,Male,10A,13.8,87.1,66.8,74.9,67.3,Bachelors
+S1003,Male,10D,7.7,93.3,50.5,56.8,52.8,Masters
+S1004,Male,10C,6.4,89.8,58.9,44.5,56.4,Bachelors
+S1005,Female,10A,12.0,86.1,59.1,53.4,46.2,High School
+S1006,Male,10D,4.7,92.8,62.4,56.0,69.6,High School
+S1007,Male,10C,17.3,94.0,81.3,78.0,83.2,High School
+S1008,Male,10D,14.7,96.6,71.9,72.0,75.5,Bachelors
+S1009,Female,10B,8.1,87.8,54.6,48.1,80.4,Bachelors
+S1010,Male,10A,3.1,78.0,26.6,22.6,15.7,High School
+S1011,Male,10B,15.4,81.8,73.0,57.4,73.8,PhD
+S1012,Male,10C,9.5,94.5,74.5,72.4,69.4,Masters
+S1013,Male,10B,15.0,70.2,58.6,60.7,62.0,Bachelors
+S1014,Female,10B,3.6,84.4,38.6,30.1,34.1,Masters
+S1015,Male,10C,7.6,75.3,51.4,54.5,50.9,High School
+S1016,Female,10D,10.0,80.3,73.6,63.3,63.2,Bachelors
+S1017,Female,10B,10.2,95.3,71.6,67.7,71.3,Bachelors
+S1018,Female,10D,8.2,82.3,60.7,71.4,52.3,Masters
+S1019,Male,10B,12.5,80.6,60.1,65.5,61.9,Masters
+S1020,Female,10D,5.7,63.7,18.9,20.6,25.9,High School
+S1021,Male,10C,9.4,89.0,64.4,76.1,64.3,PhD
+S1022,Female,10B,10.5,87.7,51.6,63.6,56.0,High School
+S1023,Female,10C,12.1,100.0,69.1,61.4,75.8,Masters
+S1024,Female,10B,12.8,76.3,83.5,78.1,69.9,PhD
+S1025,Female,10C,5.5,82.6,64.6,60.5,53.4,High School
+S1026,Female,10C,3.9,83.0,50.4,39.9,42.2,Masters
+S1027,Female,10B,15.1,98.9,97.6,89.1,99.2,High School
+S1028,Female,10B,11.3,78.9,43.9,60.8,58.8,Bachelors
+S1029,Female,10B,7.0,83.3,55.0,59.9,69.3,Bachelors
+S1030,Male,10A,16.2,87.3,71.1,79.2,74.8,Bachelors
+S1031,Male,10D,10.5,82.2,57.6,63.3,65.3,PhD
+S1032,Female,10A,14.7,74.6,77.8,81.2,79.4,Bachelors
+S1033,Female,10A,10.3,82.3,59.9,54.8,70.5,Bachelors
+S1034,Female,10C,18.2,92.9,75.1,93.3,82.7,Masters
+S1035,Male,10B,17.0,67.7,82.6,85.2,82.6,PhD
+S1036,Female,10D,9.0,81.6,45.8,50.8,51.1,High School
+S1037,Male,10C,13.9,71.6,58.1,56.4,56.3,PhD
+S1038,Male,10A,12.6,94.3,73.3,51.7,61.4,High School
+S1039,Male,10B,15.5,61.7,42.2,50.8,49.2,Masters
+S1040,Male,10C,6.1,73.3,45.8,64.5,60.3,High School
+S1041,Male,10B,12.7,84.5,55.0,56.4,58.0,High School
+S1042,Female,10C,14.2,98.8,79.9,80.0,82.7,Bachelors
+S1043,Female,10B,3.0,79.2,48.7,35.0,42.9,Bachelors
+S1044,Female,10A,5.3,73.3,37.7,48.4,50.2,Bachelors
+S1045,Female,10D,1.8,100.0,54.0,44.9,48.3,High School
+S1046,Female,10A,8.9,62.6,51.4,54.0,48.8,Bachelors
+S1047,Male,10D,12.9,53.6,48.4,48.0,54.8,Masters
+S1048,Female,10B,16.0,85.3,88.6,74.1,78.0,Bachelors
+S1049,Female,10C,10.3,74.0,48.6,55.4,66.4,High School
+S1050,Male,10A,16.5,67.7,67.9,65.6,62.7,Bachelors
+S1051,Female,10D,4.5,88.5,62.3,64.5,58.1,High School
+S1052,Male,10A,3.2,82.9,51.6,42.5,35.3,Masters
+S1053,Female,10D,9.8,73.2,60.2,50.0,57.3,Masters
+S1054,Male,10A,11.5,64.6,61.7,70.4,65.9,Bachelors
+S1055,Female,10D,9.9,90.5,68.0,78.6,67.5,Bachelors
+S1056,Female,10D,1.7,87.8,42.4,33.1,44.7,Masters
+S1057,Male,10B,9.6,78.8,43.1,49.3,44.0,Bachelors
+S1058,Male,10D,4.8,100.0,58.9,52.2,57.1,Masters
+S1059,Male,10B,12.7,67.2,51.2,55.0,46.5,Bachelors
+S1060,Male,10D,11.5,61.7,51.5,51.0,49.7,Masters
+S1061,Male,10C,6.2,71.7,48.7,47.5,30.9,Bachelors
+S1062,Male,10C,7.9,79.5,68.2,56.8,60.3,Bachelors
+S1063,Male,10C,5.8,82.9,47.5,43.7,38.0,PhD
+S1064,Male,10D,9.7,77.1,46.9,52.1,64.8,Bachelors
+S1065,Female,10B,13.8,84.2,89.4,76.8,86.5,Bachelors
+S1066,Female,10B,6.1,65.0,37.7,42.8,46.0,High School
+S1067,Male,10D,12.0,97.3,85.8,85.4,98.9,Bachelors
+S1068,Female,10C,7.9,79.0,52.3,60.0,50.2,Bachelors
+S1069,Female,10C,6.8,93.4,,49.2,50.8,High School
+S1070,Female,10B,9.6,84.1,50.9,60.2,69.3,High School
+S1071,Female,10C,5.9,85.5,70.8,53.4,50.6,Bachelors
+S1072,Male,10A,7.8,86.8,70.9,67.5,71.4,Masters
+S1073,Female,10B,5.2,85.4,53.9,55.4,45.9,Bachelors
+S1074,Male,10C,17.9,87.7,78.4,79.2,73.8,High School
+S1075,Female,10B,10.1,95.9,55.5,58.3,50.2,Bachelors
+S1076,Female,10A,7.2,82.4,52.4,52.2,46.1,High School
+S1077,Female,10B,10.9,88.5,59.7,48.4,49.5,Bachelors
+S1078,Male,10B,9.6,78.9,54.2,56.1,58.3,High School
+S1079,Female,10B,9.1,97.3,66.9,71.7,64.8,High School
+S1080,Male,10B,12.5,71.9,72.2,68.8,75.5,High School
+S1081,Female,10A,13.0,100.0,74.7,75.9,72.2,Bachelors
+S1082,Male,10D,7.9,79.5,40.8,46.1,31.1,High School
+S1083,Female,10B,7.7,62.8,54.7,46.7,49.5,Bachelors
+S1084,Male,10B,8.9,81.5,68.0,70.9,52.9,Bachelors
+S1085,Male,10C,0.8,71.8,8.2,40.0,25.4,Bachelors
+S1086,Female,10B,3.9,90.1,48.7,40.0,36.5,Bachelors
+S1087,Male,10C,15.5,72.2,68.9,59.5,79.7,Masters
+S1088,Female,10D,16.6,74.6,64.9,66.9,70.5,High School
+S1089,Female,10A,9.0,57.3,48.3,54.9,51.2,Bachelors
+S1090,Female,10A,12.3,74.6,66.4,58.2,67.2,High School
+S1091,Female,10D,11.2,50.9,57.4,60.4,46.6,High School
+S1092,Female,10A,20.0,61.0,62.7,59.3,70.6,Bachelors
+S1093,Female,10D,14.5,89.1,70.8,72.5,69.6,Bachelors
+S1094,Female,10D,9.5,89.4,,61.7,66.9,Masters
+S1095,Female,10D,6.2,85.1,38.3,56.9,54.2,Bachelors
+S1096,Female,10A,3.6,68.4,46.4,62.1,54.6,PhD
+S1097,Female,10C,10.8,79.4,60.7,51.0,57.3,High School
+S1098,Female,10D,7.0,80.0,57.0,48.0,41.4,High School
+S1099,Male,10B,4.3,66.1,47.7,49.8,38.9,High School
+S1100,Male,10A,7.4,98.0,50.7,44.0,45.6,High School
+S1101,Female,10D,5.7,90.5,39.5,36.1,36.9,Bachelors
+S1102,Female,10D,16.7,77.3,56.6,60.6,53.7,Bachelors
+S1103,Female,10B,13.5,80.3,,64.5,90.4,High School
+S1104,Female,10C,10.0,82.5,58.4,53.5,62.7,PhD
+S1105,Female,10C,15.9,55.5,86.9,78.3,86.0,Masters
+S1106,Female,10C,10.3,77.0,59.2,49.1,52.5,High School
+S1107,Female,10D,6.6,71.8,50.9,55.4,45.4,High School
+S1108,Female,10D,16.1,68.0,81.9,72.2,74.1,High School
+S1109,Male,10D,12.2,76.6,83.6,82.1,77.7,High School
+S1110,Female,10A,5.9,100.0,71.1,69.6,72.8,High School
+S1111,Male,10B,9.2,87.7,62.5,66.1,60.3,Bachelors
+S1112,Female,10D,6.5,73.1,52.7,58.4,55.7,High School
+S1113,Female,10B,4.5,86.9,46.3,52.8,49.8,Bachelors
+S1114,Male,10B,13.7,96.8,75.1,82.6,67.8,PhD
+S1115,Female,10C,17.6,91.1,75.2,81.8,70.9,Bachelors
+S1116,Male,10A,4.4,80.7,32.0,34.7,34.3,PhD
+S1117,Female,10D,12.3,72.2,57.8,55.9,70.9,High School
+S1118,Female,10C,7.4,88.4,41.1,46.0,55.8,Bachelors
+S1119,Male,10C,8.1,84.7,51.8,45.6,42.5,Bachelors
+S1120,Female,10D,7.6,90.7,60.9,78.5,63.8,High School
+S1121,Male,10B,6.5,87.6,54.0,66.4,49.6,High School
+S1122,Female,10C,10.2,92.6,67.2,55.1,69.7,Bachelors
+S1123,Male,10B,6.7,73.6,63.6,50.1,55.2,Bachelors
+S1124,Male,10A,11.1,95.8,47.3,59.8,56.4,Bachelors
+S1125,Female,10B,9.8,82.4,51.3,59.2,63.9,Bachelors
+S1126,Female,10A,9.0,100.0,52.2,60.1,49.0,Bachelors
+S1127,Male,10B,6.4,71.7,24.1,28.2,21.4,High School
+S1128,Female,10C,7.7,100.0,63.6,57.8,55.1,High School
+S1129,Female,10C,13.0,82.4,63.3,66.5,70.7,High School
+S1130,Female,10A,12.0,72.2,69.4,71.5,61.9,High School
+S1131,Male,10D,6.1,74.2,38.0,36.7,33.0,PhD
+S1132,Male,10A,10.4,76.2,52.1,46.9,45.6,Bachelors
+S1133,Male,10A,13.0,85.1,73.9,76.3,84.7,Masters
+S1134,Male,10B,3.3,86.3,52.9,53.6,59.7,High School
+S1135,Male,10B,12.2,73.1,66.1,82.3,61.6,Bachelors
+S1136,Male,10A,7.3,79.7,56.5,50.5,45.8,High School
+S1137,Male,10C,12.3,100.0,55.2,61.2,70.0,High School
+S1138,Male,10B,6.9,100.0,36.2,59.8,43.1,High School
+S1139,Male,10D,2.8,85.2,50.9,52.7,47.5,Masters
+S1140,Female,10B,3.5,80.5,66.8,58.5,57.2,Bachelors
+S1141,Male,10B,10.2,81.4,77.8,74.0,73.1,Bachelors
+S1142,Female,10D,11.0,87.4,59.8,70.9,55.5,Bachelors
+S1143,Female,10A,6.4,67.7,31.2,27.3,34.3,PhD
+S1144,Female,10D,12.6,76.9,68.2,66.2,48.5,High School
+S1145,Male,10A,3.4,60.0,12.5,12.8,14.4,High School
+S1146,Male,10A,9.7,84.8,63.6,64.1,63.5,High School
+S1147,Male,10A,5.2,87.8,50.0,41.4,41.0,Masters
+S1148,Male,10D,7.4,74.2,50.8,41.9,44.8,PhD
+S1149,Female,10A,10.2,98.9,68.9,50.5,55.0,High School
+S1150,Male,10C,6.6,65.3,49.1,52.6,44.7,Masters
+S1151,Male,10D,8.5,62.4,38.9,47.5,43.0,Masters
+S1152,Male,10C,14.0,82.7,58.6,51.2,52.9,High School
+S1153,Male,10A,7.7,92.6,22.7,33.6,32.1,Bachelors
+S1154,Male,10B,13.3,100.0,68.9,68.8,76.7,Bachelors
+S1155,Female,10A,5.5,74.5,55.3,50.2,58.7,PhD
+S1156,Male,10C,12.1,92.9,77.6,79.4,77.2,High School
+S1157,Female,10C,15.8,79.5,68.6,65.8,69.0,Masters
+S1158,Male,10D,0.1,77.9,21.7,41.2,30.9,High School
+S1159,Female,10B,6.8,90.6,63.7,59.6,44.7,Masters
+S1160,Male,10D,12.3,87.8,57.9,49.6,64.8,Bachelors
+S1161,Male,10C,9.2,61.1,49.8,46.5,47.8,Bachelors
+S1162,Female,10A,11.5,97.7,72.0,80.1,76.5,Masters
+S1163,Female,10B,7.6,96.6,68.4,80.0,74.6,Masters
+S1164,Female,10A,10.3,72.5,58.9,44.4,45.7,Masters
+S1165,Male,10A,9.4,84.7,50.5,44.5,51.5,High School
+S1166,Female,10B,14.7,85.9,60.1,75.3,62.4,Bachelors
+S1167,Male,10D,11.0,83.1,52.3,56.5,49.4,High School
+S1168,Male,10A,11.4,73.4,48.0,50.8,66.5,Bachelors
+S1169,Female,10C,8.4,71.9,47.8,55.9,47.6,Bachelors
+S1170,Female,10A,8.0,79.7,56.3,43.4,55.9,Bachelors
+S1171,Male,10B,8.3,94.1,57.2,52.0,53.2,Bachelors
+S1172,Male,10B,11.6,86.5,77.1,77.5,68.3,PhD
+S1173,Female,10B,8.3,75.6,50.0,54.4,46.4,High School
+S1174,Female,10D,11.2,89.3,68.7,57.5,65.5,Bachelors
+S1175,Female,10A,18.3,45.8,57.3,58.6,56.1,Bachelors
+S1176,Male,10D,13.5,93.8,54.2,46.3,51.3,High School
+S1177,Male,10D,8.7,59.1,51.8,54.0,49.3,High School
+S1178,Male,10B,14.8,75.7,74.8,67.8,64.1,PhD
+S1179,Male,10B,8.4,66.6,41.9,42.9,47.3,Masters
+S1180,Male,10D,1.8,64.5,16.2,24.9,41.4,Masters
+S1181,Male,10A,6.0,93.9,55.9,60.6,56.8,PhD
+S1182,Female,10C,2.5,74.4,32.0,28.7,24.9,High School
+S1183,Male,10D,8.6,84.2,56.5,49.5,55.1,Bachelors
+S1184,Male,10A,10.1,79.4,69.2,63.6,55.7,Bachelors
+S1185,Male,10B,16.7,85.7,73.4,57.3,76.2,Bachelors
+S1186,Female,10B,11.3,80.9,63.5,61.2,64.2,Bachelors
+S1187,Male,10A,9.1,64.6,38.9,37.4,47.5,Bachelors
+S1188,Male,10C,13.3,92.0,70.1,89.5,69.4,Bachelors
+S1189,Female,10B,1.2,74.1,30.5,25.7,43.3,Bachelors
+S1190,Male,10B,10.9,61.3,42.5,47.6,43.5,High School
+S1191,Male,10B,13.1,74.9,79.3,78.0,75.3,Bachelors
+S1192,Male,10A,4.1,98.0,42.7,45.3,45.0,Bachelors
+S1193,Male,10D,14.6,90.2,63.4,76.6,64.6,Bachelors
+S1194,Male,10B,11.4,75.8,60.4,62.7,67.6,High School
+S1195,Female,10D,8.3,75.8,63.9,62.6,61.1,Masters
+S1196,Female,10C,12.5,76.1,44.9,53.2,41.8,High School
+S1197,Female,10B,19.1,100.0,74.5,95.6,81.5,Bachelors
+S1198,Male,10B,10.7,84.6,60.7,70.6,62.9,Masters
+S1199,Male,10C,11.0,85.2,59.8,63.4,69.0,Bachelors
+S1200,Male,10B,8.2,92.4,55.8,51.0,58.5,High School
+S1201,Female,10D,6.6,82.9,45.8,45.5,54.0,Bachelors
+S1202,Male,10A,13.3,76.9,54.7,52.6,45.7,Bachelors
+S1203,Male,10D,6.6,77.6,56.9,47.8,49.1,Masters
+S1204,Female,10A,10.3,79.1,50.8,56.2,37.9,Masters
+S1205,Male,10A,8.1,79.6,30.5,26.0,33.3,Bachelors
+S1206,Female,10D,11.9,88.7,72.5,68.5,68.2,Bachelors
+S1207,Female,10D,11.3,80.6,60.9,68.1,70.2,High School
+S1208,Female,10D,14.2,88.8,58.4,57.2,46.9,High School
+S1209,Male,10D,8.0,79.0,43.1,30.0,51.2,Bachelors
+S1210,Male,10C,8.9,80.9,63.6,55.9,65.8,Bachelors
+S1211,Male,10B,6.1,56.0,47.7,55.4,57.6,Bachelors
+S1212,Male,10A,8.2,91.0,,64.3,56.3,High School
+S1213,Male,10D,11.5,84.2,61.5,53.7,60.1,High School
+S1214,Male,10D,13.0,92.0,70.1,56.6,63.6,Bachelors
+S1215,Male,10D,6.3,45.2,39.4,48.5,50.0,High School
+S1216,Female,10C,13.5,100.0,63.4,64.8,78.5,Masters
+S1217,Male,10D,15.4,78.3,70.2,56.3,69.9,High School
+S1218,Female,10D,11.7,93.3,55.6,59.0,58.3,Bachelors
+S1219,Male,10D,17.5,67.5,73.0,62.0,65.3,PhD
+S1220,M,10B,6.9,87.4,47.8,49.6,45.4,High School
+S1221,Male,10C,5.0,67.4,56.3,39.2,55.9,Bachelors
+S1222,Female,10D,2.9,72.5,36.9,44.2,41.5,High School
+S1223,Female,10A,16.0,100.0,81.6,85.6,66.8,Bachelors
+S1224,Female,10A,12.6,77.7,57.0,64.2,53.3,Bachelors
+S1225,Female,10A,9.8,82.6,44.1,38.2,43.3,Bachelors
+S1226,M,10C,11.1,90.4,71.2,69.8,69.2,Bachelors
+S1227,Female,10C,5.5,85.9,41.5,47.4,40.2,Masters
+S1228,Male,10A,19.8,81.8,85.2,84.4,83.1,High School
+S1229,Male,10D,10.5,84.4,82.5,89.6,87.1,High School
+S1230,Female,10C,10.4,100.0,67.0,64.0,67.2,Masters
+S1231,Female,10A,12.9,105.0,52.0,58.4,53.4,Bachelors
+S1232,Female,10A,11.9,82.4,43.9,62.0,65.6,Masters
+S1233,Female,10D,10.9,92.6,72.3,82.2,83.4,Bachelors
+S1234,Female,10B,6.8,93.3,69.7,59.5,52.3,Masters
+S1235,Female,10C,11.9,94.2,60.6,60.7,52.3,Bachelors
+S1236,Female,10D,17.5,87.7,86.1,86.7,89.1,Masters
+S1237,Female,10A,15.4,66.3,58.1,68.1,57.5,Masters
+S1238,Male,10A,16.4,99.6,96.0,98.3,95.0,Bachelors
+S1239,Female,10D,8.0,66.2,58.4,50.0,59.6,High School
+S1240,Female,10C,6.0,83.6,37.8,53.3,33.4,High School
+S1241,Male,10B,9.5,70.9,69.0,66.5,70.3,High School
+S1242,Female,10B,10.2,79.2,62.0,55.1,58.2,High School
+S1243,Male,10A,14.4,83.9,80.7,73.5,73.9,High School
+S1244,Male,10C,3.2,83.9,48.1,47.2,44.9,Bachelors
+S1245,Female,10B,16.1,85.1,67.6,70.3,67.3,Bachelors
+S1246,Male,10C,9.4,99.4,62.1,59.3,47.7,Bachelors
+S1247,Male,10C,8.3,85.4,66.7,65.0,72.1,Bachelors
+S1248,Male,10A,6.0,77.1,41.0,53.4,43.4,High School
+S1249,Male,10B,3.4,91.6,38.5,48.3,44.6,High School
+S1250,Female,10D,13.3,94.3,63.9,64.5,69.0,High School
+S1251,Male,10A,10.3,65.3,,60.9,49.1,Bachelors
+S1252,Female,10B,4.8,87.2,55.9,57.2,66.2,High School
+S1253,Male,10B,4.8,88.4,30.0,41.2,37.2,High School
+S1254,Male,10B,8.7,76.4,53.5,63.4,57.6,Bachelors
+S1255,Male,10B,16.7,96.5,92.0,90.3,78.9,Masters
+S1256,Male,10B,9.0,78.2,54.2,48.1,52.5,High School
+S1257,Female,10C,4.0,81.5,47.7,42.3,42.6,Bachelors
+S1258,Female,10A,9.0,77.9,43.8,38.6,47.8,Bachelors
+S1259,Male,10C,8.9,80.2,66.7,53.0,60.6,Masters
+S1260,Male,10D,0.0,66.8,15.6,23.0,21.0,PhD
+S1261,Female,10B,9.8,62.7,52.5,49.0,53.2,High School
+S1262,Male,10A,9.1,99.1,71.3,72.0,71.2,High School
+S1263,Male,10B,12.8,69.8,70.8,86.1,75.3,Masters
+S1264,Male,10A,17.4,68.1,74.3,69.9,80.4,Bachelors
+S1265,Female,10C,14.5,54.2,70.5,69.7,58.3,Bachelors
+S1266,Female,10A,8.9,72.3,52.9,55.8,35.3,Bachelors
+S1267,Female,10D,5.6,64.1,38.2,43.0,34.6,Bachelors
+S1268,Male,10D,20.0,99.7,85.0,88.6,86.4,PhD
+S1269,Male,10A,10.2,92.1,56.3,65.1,50.2,PhD
+S1270,Female,10A,10.1,71.7,53.0,48.7,47.9,Masters
+S1271,Female,10A,9.9,100.0,73.4,80.6,75.9,High School
+S1272,Female,10A,10.8,91.8,63.4,56.7,63.6,Masters
+S1273,Female,10D,9.4,76.1,66.4,66.4,64.9,High School
+S1274,Male,10B,7.7,50.0,43.1,42.7,46.1,High School
+S1275,Female,10A,7.8,100.0,60.0,53.2,61.3,Masters
+S1276,Male,10A,9.9,63.3,36.1,36.7,30.3,High School
+S1277,Female,10D,7.8,60.3,45.6,33.1,34.6,High School
+S1278,Male,10D,7.1,92.3,74.5,67.8,58.1,High School
+S1279,Female,10C,10.4,100.0,59.7,57.6,55.3,Masters
+S1280,Female,10A,9.0,96.6,48.3,58.2,50.8,Bachelors
+S1281,Female,10C,16.0,86.8,63.1,63.3,71.6,Bachelors
+S1282,Female,10D,0.0,87.1,40.2,44.9,41.0,High School
+S1283,Male,10D,14.4,90.2,79.3,80.2,74.0,Masters
+S1284,Female,10B,15.0,89.1,77.2,67.0,65.6,Masters
+S1285,Male,10A,1.7,83.4,34.2,38.2,38.3,High School
+S1286,Male,10C,8.6,81.3,49.0,52.4,43.0,Bachelors
+S1287,Male,10D,8.5,79.2,46.5,42.3,50.2,High School
+S1288,Male,10D,4.4,71.0,47.3,46.3,46.3,PhD
+S1289,Female,10C,6.9,76.6,57.8,33.5,40.8,Bachelors
+S1290,Male,10B,5.6,59.7,38.0,49.7,38.8,PhD
+S1291,Male,10D,17.0,78.8,87.3,76.8,83.2,High School
+S1292,Male,10A,13.7,68.1,81.6,70.0,75.3,Masters
+S1293,Female,10D,15.1,66.8,61.1,59.4,64.1,Masters
+S1294,Female,10A,12.9,82.2,67.2,72.4,74.2,Bachelors
+S1295,Female,10C,5.5,96.7,50.1,50.4,55.4,PhD
+S1296,Female,10A,7.9,91.0,47.8,46.9,42.3,Bachelors
+S1297,Male,10C,12.0,61.2,65.3,61.5,55.1,High School
+S1298,Male,10A,5.1,68.1,17.3,32.6,25.9,Bachelors
+S1299,Female,10C,12.9,91.3,87.5,80.2,86.3,Masters
+S1300,Male,10A,9.0,68.2,37.5,48.9,38.9,Bachelors
+S1301,Male,10B,8.5,77.3,52.2,44.6,59.1,High School
+S1302,Male,10A,12.8,86.6,66.3,73.4,74.3,Bachelors
+S1303,Female,10A,11.8,68.4,58.3,58.5,65.8,High School
+S1304,Female,10B,8.6,81.3,49.1,52.6,56.3,Bachelors
+S1305,Male,10D,14.6,64.0,61.1,56.8,62.6,Bachelors
+S1306,Female,10D,5.7,72.8,62.5,50.1,64.0,Masters
+S1307,Female,10A,12.5,83.8,45.8,53.2,50.3,High School
+S1308,Female,10B,12.4,60.9,57.5,58.4,47.2,Bachelors
+S1309,Female,10A,8.8,85.3,67.7,80.2,60.4,High School
+S1310,Female,10C,11.3,79.8,54.7,58.7,56.4,High School
+S1311,Male,10C,5.0,86.6,41.8,33.8,30.4,Masters
+S1312,Female,10A,13.7,82.7,67.6,75.2,69.2,Masters
+S1313,Male,10D,9.3,96.4,66.2,71.2,65.9,Bachelors
+S1314,Male,10D,7.9,81.5,66.0,57.5,56.3,Masters
+S1315,Female,10A,14.2,74.8,68.2,75.9,71.9,Masters
+S1316,Male,10A,7.2,81.5,60.0,67.8,57.0,Masters
+S1317,Male,10C,4.4,86.5,46.7,60.6,62.2,High School
+S1318,Male,10D,3.8,80.6,39.3,46.5,39.3,PhD
+S1319,Female,10A,12.4,80.5,64.1,67.5,57.2,Bachelors
+S1320,Female,10C,4.9,71.6,55.2,47.1,41.6,High School
+S1321,Male,10D,17.0,72.0,88.6,86.6,91.5,High School
+S1322,Female,10B,1.7,63.2,26.6,26.4,33.9,Bachelors
+S1323,Female,10C,16.8,100.0,74.2,83.6,76.9,High School
+S1324,Female,10D,10.8,65.1,54.4,57.0,69.0,High School
+S1325,Female,10D,9.6,71.7,55.3,60.9,44.6,High School
+S1326,Male,10C,7.8,71.4,36.0,33.7,40.7,Masters
+S1327,Male,10B,11.6,90.7,69.3,63.7,81.2,Masters
+S1328,Female,10C,9.8,76.5,48.0,53.0,55.2,High School
+S1329,Female,10D,14.4,95.0,74.9,60.7,84.0,Masters
+S1330,Male,10A,10.5,71.9,55.0,61.4,47.7,Masters
+S1331,Male,10A,10.6,83.3,60.9,66.7,58.2,Masters
+S1332,Female,10C,8.5,70.0,67.5,51.4,50.5,High School
+S1333,Male,10D,9.8,100.0,59.5,61.8,65.3,Bachelors
+S1334,Female,10A,11.2,65.7,56.2,70.1,52.1,PhD
+S1335,Female,10D,3.2,83.7,35.5,36.4,43.9,Bachelors
+S1336,Male,10C,4.6,87.6,56.9,46.1,60.7,High School
+S1337,Male,10A,13.0,85.0,70.3,80.3,75.6,Bachelors
+S1338,Female,10D,10.7,105.0,46.5,62.2,52.1,Bachelors
+S1339,Female,10A,9.3,78.4,71.2,63.3,57.4,Bachelors
+S1340,Male,10C,10.1,80.5,61.7,59.2,48.1,High School
+S1341,Female,10D,11.4,78.2,62.6,74.3,73.7,High School
+S1342,Male,10A,7.8,91.6,47.9,54.6,63.8,Masters
+S1343,Female,10C,6.9,100.0,78.0,69.0,71.7,Masters
+S1344,Male,10A,10.8,73.3,50.4,61.9,52.0,High School
+S1345,Male,10A,6.1,63.6,42.6,48.0,25.7,PhD
+S1346,Male,10B,11.6,78.9,48.6,63.8,54.0,High School
+S1347,Female,10B,3.2,100.0,50.9,40.3,57.0,Bachelors
+S1348,Female,10C,14.1,105.0,62.5,81.7,62.1,Masters
+S1349,Male,10B,11.9,99.7,61.1,53.5,57.8,Masters
+S1350,Female,10C,11.0,100.0,59.2,57.1,65.1,PhD
+S1351,Male,10B,13.9,73.4,49.8,57.6,48.0,High School
+S1352,Male,10A,16.7,86.8,81.6,93.4,85.2,Masters
+S1353,Female,10C,14.1,99.5,92.9,93.9,94.4,High School
+S1354,Female,10C,2.6,75.5,36.5,38.4,35.9,Masters
+S1355,Male,10A,4.9,77.6,45.4,44.7,59.1,Masters
+S1356,Female,10C,7.5,73.0,60.4,48.8,38.5,Bachelors
+S1357,Female,10C,10.1,67.8,52.3,65.0,68.0,High School
+S1358,Male,10B,12.1,72.2,61.4,36.5,50.7,Masters
+S1359,Male,10C,7.1,65.3,46.4,44.0,50.4,High School
+S1360,Female,10D,10.7,80.4,61.3,68.2,69.4,High School
+S1361,Male,10A,7.0,70.8,41.8,42.9,45.4,Masters
+S1362,Male,10B,7.6,82.8,52.5,56.0,55.0,Bachelors
+S1363,Female,10B,4.4,61.3,49.1,42.3,32.4,Masters
+S1364,Male,10D,6.3,84.0,27.0,38.3,31.3,Bachelors
+S1365,Male,10A,4.6,90.0,62.0,62.4,54.7,High School
+S1366,Female,10A,6.1,56.1,23.8,29.7,36.3,Masters
+S1367,Female,10B,14.2,84.5,54.6,53.7,61.0,Bachelors
+S1368,Male,10C,6.2,94.7,50.0,57.0,59.7,High School
+S1369,Male,10B,20.0,65.5,89.4,84.5,88.1,Masters
+S1370,Female,10A,12.0,100.0,74.2,70.1,63.6,Bachelors
+S1371,Female,10D,10.7,85.0,65.8,63.8,64.1,Bachelors
+S1372,Female,10B,6.6,71.5,42.4,51.2,65.1,Bachelors
+S1373,Female,10A,12.8,79.3,75.4,78.0,82.9,Masters
+S1374,Male,10B,7.7,86.7,69.7,70.8,65.6,Masters
+S1375,Female,10C,10.5,80.9,67.0,59.7,64.8,Masters
+S1376,Female,10B,20.0,86.5,92.6,90.6,79.8,High School
+S1377,Male,10B,9.6,69.0,32.4,35.0,45.8,Masters
+S1378,Female,10A,14.6,82.0,71.4,68.9,71.3,Bachelors
+S1379,Male,10A,7.2,63.0,43.6,41.4,48.1,Bachelors
+S1380,Female,10A,9.9,78.7,62.9,73.4,68.3,Bachelors
+S1381,Female,10B,17.1,69.2,70.9,71.8,66.8,Masters
+S1382,Female,10C,7.5,71.2,45.2,45.1,49.6,Masters
+S1383,Male,10D,17.2,94.8,84.8,84.2,89.2,High School
+S1384,Male,10D,12.8,93.1,71.7,68.4,68.3,Bachelors
+S1385,Female,10A,7.8,87.3,65.1,63.5,62.7,Masters
+S1386,Male,10A,12.5,66.9,49.0,52.0,58.3,High School
+S1387,Male,10B,13.9,76.2,67.0,57.5,71.1,PhD
+S1388,Male,10D,12.5,94.6,56.6,60.2,57.7,Bachelors
+S1389,Male,10A,3.7,81.7,24.9,29.7,39.5,Bachelors
+S1390,Male,10C,7.1,100.0,56.9,51.3,59.9,High School
+S1391,Male,10C,9.0,84.7,49.2,54.6,56.9,High School
+S1392,Female,10A,9.7,82.3,57.7,53.4,54.2,PhD
+S1393,Female,10A,12.5,76.3,59.0,59.1,59.6,High School
+S1394,Male,10D,10.7,81.6,37.8,53.4,43.0,Masters
+S1395,Female,10D,4.7,78.2,38.3,38.5,42.5,Bachelors
+S1396,Female,10B,11.5,88.5,59.3,44.9,39.2,High School
+S1397,Female,10D,12.4,91.5,67.8,67.4,78.9,High School
+S1398,Female,10C,12.2,70.6,56.6,56.5,50.0,Bachelors
+S1399,M,10C,14.3,64.0,52.5,47.6,58.7,PhD
+S1400,Female,10A,13.3,58.0,58.7,49.4,52.0,Bachelors
+S1401,Female,10D,11.8,86.1,56.4,50.1,56.7,Bachelors
+S1402,Male,10B,9.7,66.8,49.9,50.8,49.8,High School
+S1403,Male,10C,3.4,54.2,49.4,42.0,39.2,Bachelors
+S1404,Female,10C,11.7,84.7,58.6,51.7,56.6,Bachelors
+S1405,Female,10B,10.8,100.0,73.8,64.6,53.0,Masters
+S1406,Female,10B,11.1,79.9,58.9,56.0,66.1,Bachelors
+S1407,Female,10C,4.9,90.1,48.8,48.1,55.7,Bachelors
+S1408,Female,10C,5.7,81.0,43.4,48.2,41.1,High School
+S1409,Female,10B,14.2,78.8,64.1,55.9,54.6,PhD
+S1410,Male,10C,9.8,91.0,60.9,61.8,68.4,High School
+S1411,Female,10A,12.7,76.5,64.4,45.3,50.3,High School
+S1412,Female,10A,10.1,83.2,71.0,65.0,60.2,Bachelors
+S1413,Male,10B,10.1,83.9,50.0,60.8,65.8,Bachelors
+S1414,Male,10D,13.8,72.0,84.8,79.6,80.5,Bachelors
+S1415,Male,10B,7.9,91.9,50.0,72.2,50.4,Bachelors
+S1416,Male,10B,10.4,77.9,49.2,53.6,52.8,Masters
+S1417,Female,10D,8.2,70.9,38.3,30.7,30.6,High School
+S1418,Female,10D,8.3,86.4,52.9,40.3,47.5,Masters
+S1419,Female,10D,8.8,69.2,55.7,26.3,43.4,Bachelors
+S1420,Female,10A,10.9,80.3,65.1,61.0,64.7,Bachelors
+S1421,Female,10C,8.1,79.9,55.2,51.3,58.4,Bachelors
+S1422,Female,10A,15.0,93.0,65.3,67.5,72.6,High School
+S1423,Male,10C,6.4,85.7,62.8,54.1,57.4,Masters
+S1424,Female,10A,9.3,79.7,49.3,50.6,44.2,Bachelors
+S1425,Male,10C,8.2,89.8,68.4,53.8,60.3,High School
+S1426,Male,10A,15.8,96.7,92.5,100.0,100.0,Bachelors
+S1427,Female,10D,10.8,86.7,71.8,66.9,62.8,PhD
+S1428,Male,10B,14.1,80.1,69.1,76.1,63.0,Bachelors
+S1429,Female,10A,4.1,64.3,31.4,33.7,31.3,PhD
+S1430,Male,10C,11.1,67.2,42.4,40.3,37.1,High School
+S1431,Female,10D,13.6,76.3,55.1,61.0,52.9,High School
+S1432,Male,10A,10.3,72.7,49.8,55.5,59.9,High School
+S1433,Female,10A,14.3,77.8,52.4,47.4,72.9,Bachelors
+S1434,Female,10D,7.9,80.7,53.6,49.3,52.2,High School
+S1435,Female,10A,15.6,86.4,78.8,79.2,68.8,High School
+S1436,Female,10B,19.2,79.2,80.6,77.6,68.6,Masters
+S1437,Female,10A,8.5,85.8,60.4,41.9,51.9,Masters
+S1438,Male,10B,8.2,80.8,54.1,53.9,60.8,Masters
+S1439,Male,10B,15.8,56.3,69.6,75.8,68.4,High School
+S1440,Male,10D,16.3,68.7,53.0,67.0,59.5,High School
+S1441,Female,10A,7.9,78.3,60.0,62.0,58.8,High School
+S1442,Male,10D,8.3,65.5,50.3,51.9,39.6,Masters
+S1443,Female,10A,8.9,87.2,62.4,55.1,62.3,PhD
+S1444,Female,10A,4.6,98.4,54.8,46.3,62.0,Bachelors
+S1445,Male,10C,6.3,94.6,55.0,49.9,46.2,High School
+S1446,Male,10A,6.0,77.4,44.5,63.0,63.1,Bachelors
+S1447,Female,10D,6.9,97.9,56.6,57.1,62.2,High School
+S1448,Male,10B,9.9,81.8,57.9,51.1,61.0,Bachelors
+S1449,Female,10A,10.9,76.0,64.0,58.7,52.5,Bachelors
+S1450,Female,10C,16.2,72.6,63.4,71.8,52.2,Masters
+S1451,Female,10D,6.0,76.4,46.7,56.2,45.5,High School
+S1452,Female,10A,13.9,75.3,64.6,77.9,67.6,High School
+S1453,Female,10D,9.1,82.0,49.9,52.9,64.7,PhD
+S1454,Male,10C,9.8,81.9,60.4,58.0,60.5,High School
+S1455,Male,10C,12.7,80.0,51.2,39.6,47.2,High School
+S1456,Female,10D,5.5,85.2,46.4,52.3,37.3,High School
+S1457,Female,10A,11.5,94.3,64.1,60.2,74.6,High School
+S1458,Male,10B,10.7,91.4,51.7,65.9,58.8,Bachelors
+S1459,Male,10C,12.0,62.2,53.2,40.1,56.4,Masters
+S1460,Female,10A,11.2,49.4,55.0,54.4,56.2,High School
+S1461,Male,10A,19.8,91.2,73.9,74.0,88.6,Bachelors
+S1462,Female,10B,7.4,63.6,55.9,48.0,55.8,Bachelors
+S1463,Male,10C,7.9,77.3,51.7,50.9,53.3,Bachelors
+S1464,Female,10C,7.5,66.0,46.3,36.7,36.9,Masters
+S1465,Male,10A,7.8,58.4,60.8,62.1,55.0,Masters
+S1466,Female,10A,7.5,86.5,47.9,37.2,46.4,High School
+S1467,Male,10B,14.8,89.1,71.8,81.3,80.5,Masters
+S1468,Male,10B,15.7,73.1,83.8,83.8,72.9,Bachelors
+S1469,Female,10C,7.7,48.9,35.0,30.4,32.5,PhD
+S1470,Male,10D,6.7,73.4,55.0,52.9,57.7,Bachelors
+S1471,Female,10C,11.9,84.7,62.5,60.2,48.9,PhD
+S1472,Male,10A,7.8,62.3,36.1,53.8,49.5,Masters
+S1473,Female,10C,12.5,82.2,68.7,67.4,60.3,High School
+S1474,Male,10D,10.8,79.8,51.7,54.7,50.9,Bachelors
+S1475,Female,10B,3.9,87.0,42.9,53.9,40.9,PhD
+S1476,Male,10D,16.2,81.4,70.3,72.8,68.6,Masters
+S1477,Female,10D,17.2,68.3,63.0,60.4,48.2,High School
+S1478,Male,10D,7.5,94.4,63.2,69.4,62.7,Masters
+S1479,Female,10B,8.4,78.1,48.1,37.1,50.7,High School
+S1480,Female,10D,11.1,79.7,64.7,62.9,64.7,High School
+S1481,Female,10D,11.3,68.8,54.5,59.5,65.9,Bachelors
+S1482,Male,10D,12.6,74.7,46.0,55.9,55.1,High School
+S1483,Female,10A,18.0,69.4,76.9,76.8,70.3,Masters
+S1484,Male,10D,9.3,77.9,44.6,41.7,45.1,High School
+S1485,Female,10B,6.8,100.0,52.0,58.0,48.1,Masters
+S1486,Male,10D,4.5,63.5,35.1,21.7,42.9,High School
+S1487,Female,10D,7.1,60.6,51.2,44.7,59.1,High School
+S1488,Male,10B,9.9,97.7,81.0,74.1,64.2,High School
+S1489,Male,10D,17.2,77.5,93.9,79.7,79.0,High School
+S1490,Female,10B,7.9,72.0,41.9,38.4,42.4,High School
+S1491,Male,10D,10.9,92.5,54.6,58.6,56.8,High School
+S1492,Male,10B,9.9,72.7,37.9,42.1,43.4,Bachelors
+S1493,Female,10D,14.8,100.0,72.1,69.4,66.2,High School
+S1494,Male,10D,20.0,88.1,87.2,79.5,100.0,Bachelors
+S1495,Male,10A,7.9,74.1,56.6,49.6,69.5,Bachelors
+S1496,Male,10A,8.0,100.0,52.2,46.5,51.4,Masters
+S1497,Female,10D,14.2,72.7,59.5,62.6,66.0,Masters
+S1498,Male,10D,12.7,88.9,67.3,50.6,73.7,Bachelors
+S1499,Female,10C,17.4,83.6,74.6,76.2,75.8,High School
+S1000,Male,10C,11.4,87.0,68.9,72.3,70.6,Bachelors
+S1001,Female,10A,17.5,75.7,89.1,81.0,94.9,High School
